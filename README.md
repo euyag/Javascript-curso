@@ -1,3 +1,3 @@
 # Javascript-curso
  
-- Anotações do curs de javascript que fiz no estudoanuta e dicidi deixa-las salvas em um repositorio
+- Anotações do curso de javascript que fiz no estudoanuta e decidi deixa-las salvas em um repositorio
